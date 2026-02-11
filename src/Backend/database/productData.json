@@ -1,0 +1,77 @@
+{
+    "carouselImages": {
+      "src1": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?...",
+      "src2": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?...",
+      "src3": "https://images.unsplash.com/photo-1627384113743-6bd5a479fffd?..."
+    },
+    "trendingProducts": [
+      {
+        "src": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?...",
+        "destin": "/product",
+        "name": "Delux premium watch",
+        "price": "Rs. 5000"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?...",
+        "destin": "/productA",
+        "name": "Blinco Perfume",
+        "price": "Rs. 600"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1589782182703-2aaa69037b5b?...",
+        "destin": "/productB",
+        "name": "Vincent Chase Glass",
+        "price": "Rs. 2000"
+      },
+      {
+        "src": "https://plus.unsplash.com/premium_photo-1676037839664-6f52faa56a81?...",
+        "destin": "/productC",
+        "name": "Corona Face Pack",
+        "price": "Rs. 150"
+      }
+    ],
+    "sponsors": [
+      {
+        "src": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?...",
+        "title": "Kodac Lenses",
+        "destin": "/productS1"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1560343090-f0409e92791a?...",
+        "title": "Cliq Sneakers",
+        "destin": "/productS2"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1612188842101-f976582906fc?...",
+        "title": "BLVCK",
+        "destin": "/productS3"
+      }
+    ],
+    "discountedProducts": [
+      {
+        "src": "https://plus.unsplash.com/premium_photo-1674688194029-17dda3aaf779?...",
+        "destin": "/productD",
+        "name": "Dark Serum",
+        "price": "50% off"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1601612635224-ed8bce54ee4e?...",
+        "destin": "/productE",
+        "name": "Mist Spray",
+        "price": "30% Discount"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1613187433272-9d21d5c9b8e7?...",
+        "destin": "/productF",
+        "name": "Teri Chirimen",
+        "price": "Below MRP"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1582020738577-2e7a48043902?...",
+        "destin": "/productG",
+        "name": "Kendle Handwash",
+        "price": "Upto 30 Rs. off"
+      }
+    ]
+  }
+  

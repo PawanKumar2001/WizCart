@@ -1,0 +1,128 @@
+{
+    "product": {
+        "pname": "Delux premium watch",
+        "description": "premium watch from sonata, now available to buy",
+        "price": "Rs. 5000",
+        "desc1": "From Sonata",
+        "desc2": "Material Type: metal body",
+        "desc3": "Watch type: Wrist watch",
+        "src1": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "src2": "https://images.unsplash.com/photo-1508962914676-134849a727f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" ,
+        "src3": "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
+      },
+    "productA": {
+      "pname": "Blinco Perfume",
+      "description": "Get going anywhere with a charming smell",
+      "price": "Rs. 600",
+      "desc1": "A product from Blinco",
+      "desc2": "Flavour: Musk Wood",
+      "desc3": "Suited for: both men and women",
+      "src1": "https://images.unsplash.com/photo-1588514912908-8f5891714f8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
+      "src2": "https://plus.unsplash.com/premium_photo-1667161521640-bba57df66f29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "src3": "https://images.unsplash.com/photo-1544468266-6a8948003cd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1174&q=80"
+    },
+    "productB": {
+      "pname": "Vincent Chase Glass",
+      "description": "Wide Range of Glasses for everyone",
+      "price": "Rs. 2000",
+      "desc1": "Model no: BE123-FS",
+      "desc2": "Size: Medium",
+      "desc3": "Suited for: For men",
+      "src1": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src2": "https://images.unsplash.com/photo-1516714819001-8ee7a13b71d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://images.unsplash.com/photo-1546914782-96b636ea44e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productC": {
+      "pname": "Corona Face Pack",
+      "description": "Soothing face pack With the power of avocado",
+      "price": "Rs. 150",
+      "desc1": "Apply for 5 mins on clean face then rinse with water",
+      "desc2": "Made with natural ingredients",
+      "desc3": "Suited for: Oily skin",
+      "src1": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src2": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80",
+      "src3": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productD": {
+      "pname": "Dark Serum",
+      "description": "Keep hair in shape with Dark Serum",
+      "price": "Rs. 589",
+      "desc1": "Directions: Wash your hair with shampoo, then apply on dried hair",
+      "desc2": "Preffered for: Men",
+      "desc3": "Quantity: 100 gm",
+      "src1": "https://images.unsplash.com/photo-1575249142951-35b95b9bb5b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src2": "https://images.unsplash.com/photo-1600428877878-1a0fd85beda8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://plus.unsplash.com/premium_photo-1673480195253-dc2229c109ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productE": {
+      "pname": "Mist Hair Spray",
+      "description": "Hair Gel effect from a spray, much easier to use",
+      "price": "Rs. 150",
+      "desc1": "How to use: spray on dry hair and set accordingly",
+      "desc2": "Flavour: Wet Musk flavour",
+      "desc3": "For: both men and women",
+      "src1": "https://plus.unsplash.com/premium_photo-1661382022096-d652c06cf1be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src2": "https://images.unsplash.com/photo-1606773763032-462cc1af227c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://images.unsplash.com/photo-1634302096635-fa2fc57655d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productF": {
+      "pname": "Teri Chirimen",
+      "description": "Wide Range of packed food",
+      "price": "Rs. 80",
+      "desc1": "Flavour: Khatta Meetha Nimbu",
+      "desc2": "Quantity: 100 gm",
+      "desc3": "Manufactured on: 24/05/2023",
+      "desc4": "Use by: 04/05/2024",
+      "src1": "https://images.unsplash.com/photo-1547132703-1af228eaaada?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "src2": "https://images.unsplash.com/photo-1508170754725-6e9a5cfbcabf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://images.unsplash.com/photo-1505714197102-6ae95091ed70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productG": {
+      "pname": "Kendle Hand Wash",
+      "description": "Cleans 99.9 percent of germs with one drop",
+      "price": "Rs. 260",
+      "desc1": "Apply on wet hands then rinse",
+      "desc2": "Flavour: Lavender",
+      "desc3": "Expiry date: December 2024",
+      "desc4": "Quantity: 500 gm",
+      "src1": "https://images.unsplash.com/photo-1574482620811-1aa16ffe3c82?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src2": "https://images.unsplash.com/photo-1584744646898-40ff0404e767?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://images.unsplash.com/photo-1590706887341-1f46278a7ee3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productS1": {
+      "pname": "Kodak Lense",
+      "description": "100X zoom with no image loss",
+      "price": "Rs. 10000",
+      "desc1": "Supported Models: All Kodak DSLR's",
+      "desc2": "Model No. B3DS201",
+      "desc3": "Manufactured By: Kodak Ltd",
+      "desc4": "Zoom Type: Optical Zoom",
+      "src1": "https://images.unsplash.com/photo-1533746228171-962520811097?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1174&q=80",
+      "src2": "https://images.unsplash.com/photo-1506080042994-0f980f1e2ccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "src3": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    "productS2": {
+        "pname": "Clique Sneakers",
+        "description": "Timeless Design, Created By Nike",
+        "price": "Rs. 7299",
+        "desc1": "Size: 7 (UK)",
+        "desc2": "Type: Sneakers",
+        "desc3": "Sub Type: Low top",
+        "desc4": "Matereal: Leather, PU Foam",
+        "src1": "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "src2": "https://images.unsplash.com/photo-1489647767089-3944a3baa54e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80",
+        "src3": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      },
+      "productS3": {
+        "pname": "BLVCK Collection",
+        "description": "Premium BLVCK Collection in one",
+        "price": "Rs. 999",
+        "desc1": "Collection: BLVCK Flavoured Water, BLVCK Lens, BLVCK Jacket",
+        "desc2": "Net Weight: 1 Kgs",
+        "desc3": "Also Included: One Mistery Package",
+        "desc4": "20% off with HDFC cards",
+        "src1": "https://images.unsplash.com/photo-1612040906977-1110aa1bdb6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "src2": "https://images.unsplash.com/photo-1672009563053-ae1af83b18ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+        "src3": "https://images.unsplash.com/photo-1610623822063-8f350d4d1140?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+      }
+  }
